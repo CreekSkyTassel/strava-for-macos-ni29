@@ -1,4 +1,4 @@
-
+new Strava for macOS Integration | goal-setting + calorie-counter is the best Strava for macOS integration, featuring goal-setting and calorie-counter. Powerful, efficient, and
 
 
 
